@@ -2,10 +2,10 @@
 
 package week4Assignments;
 
-//import acm.program.*; 
+import acm.program.*; 
 import java.util.*; 
 		
-		public class UniqueNames extends ConsoleProgram {         
+		public class uniqueNames extends ConsoleProgram {         
 			
 			public void run() {       
 				
